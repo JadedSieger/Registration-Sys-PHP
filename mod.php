@@ -43,15 +43,18 @@ The Human Instrumentality Project has failed to unify humanity, leaving behind a
 With the deaths of Gendo Ikari, Misato Katsuragi, and the Three Children, NERV is left leaderless and disillusioned.<br>
 Yet in the shadows of old battlefields, its remnants fight on — clinging to the last traces of individuality and free will.<br>
 
-SEELE, despite the fall of its ten monolithic leaders, persists. Its ideology lives on through scattered cells, still obsessed with achieving forced evolution through global convergence and control.<br>
+SEELE, despite the fall of its ten monolithic leaders, persists.<br>
+Its ideology lives on through scattered cells, still obsessed with achieving forced evolution through global convergence and control.<br>
 
-The JSSDF, once the iron hand of order, now acts without restraint. With NERV crippled and SEELE fractured, the military seizes the moment — imposing peace through brutality and firepower.<br>
+The JSSDF, once the iron hand of order, now acts without restraint.<br>
+With NERV crippled and SEELE fractured, the military seizes the moment — imposing peace through brutality and firepower.<br>
 
+<br>
+What side will the remaining United Nations support?<br>
 
-What side will the remaining United Nations support?
-Preservation – The embers of NERV, defending human autonomy
-Autocracy – The remnants of SEELE, enforcing transcendence
-Totalitarianism– The rogue JSSDF, securing power at any cost
+Preservation – The embers of NERV, defending human autonomy<br>
+Autocracy – The remnants of SEELE, enforcing transcendence<br>
+Totalitarianism– The rogue JSSDF, securing power at any cost<br>
 
 As old alliances collapse and new warfronts rise, the conflict is no longer about Angels or EVAs —
 It is a battle for the very soul of humanity. 
