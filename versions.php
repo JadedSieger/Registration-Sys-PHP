@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NERV | Unit Overview</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+        <nav class="navibar">
+            <div class="navidiv">
+                <ul class="nav-links">
+                    <li><a href="./home.php"><img class="navLogo" src="./NERV-Logo.png" alt="NERV Logo"></a></li>
+                    <li><a href="./about.html">About</a></li>
+                    <li><a href="https://jadedsieger.github.io/home"><button type="button">Go to Home</button></a></li>
+                    <li><a href="./logout.php"><button type="button">Log Out</button></a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <div class="overlay"></div>
+    <div class="vidBG">
+        <video autoplay muted loop id="myVideo">
+            <source src="./Evangelion-UI.mp4" type="video/mp4">
+        </video>
+    </div>
+href="https://www.dropbox.com/scl/fi/w69fzijohqbb3i8b4d0pb/Instrumentality-Broken-Bonds-1.8-Ramiel-Appears.zip?rlkey=5jg345d702erfuy3t7bvl8hbn&st=g70ygkye&dl=1
+"
+        <section class="homeSec">
+       
+            <a href="https://www.dropbox.com/scl/fi/w69fzijohqbb3i8b4d0pb/Instrumentality-Broken-Bonds-1.8-Ramiel-Appears.zip?rlkey=5jg345d702erfuy3t7bvl8hbn&st=g70ygkye&dl=1
+">
+            <div class="unit-section">
+                <h2>Versions</h2>
+                <h1>Version 1.8 - Descent of the Fifth</h1>
+                <p>Updates: <br>
+Some UI elements fixed for 11.0.1<br>
+Rebalanced Support Vehicles, such as the Typhon (NERV-UN) and the FCV (Global)<br>
+New Faction: Angels<br>
+Ramiel<br>
+
+
+Current Roadmap<br>
+Eighth Angel  (https://evangelion.fandom.com/wiki/Eighth_Angel)<br>
+Arael (https://evangelion.fandom.com/wiki/Arael)<br>
+EVA Unit Implementation<br>
+Textures for canonically accurate characters.<br>
+
+Units Added (Global):<br>
+Positron Cannon (43.4km RHA Penetration btw)<br>
+4 FCV types (Bombs, Cruise Missiles, A-10 support)<br>
+
+NERV-UN Units Added<br>
+XM270 Lower Wield Positron Cannon<br>
+Typhon Ballistic Missile Command Center
+</p>
+            </div>
+        </a>
+                <a href="https://www.dropbox.com/scl/fi/w69fzijohqbb3i8b4d0pb/Instrumentality-Broken-Bonds-1.8-Ramiel-Appears.zip?rlkey=5jg345d702erfuy3t7bvl8hbn&st=g70ygkye&dl=1
+">
+            <div class="unit-section">
+                <h2>Versions</h2>
+                <h1>Instrumentality: Broken Bonds v1.7.5 (UI + Camouflage Completion Patch)</h1>
+                <p>Updates:<br>
+UI is now completely original, even the splash screen for mobile.<br>
+The splash screen is also working on pc, just replace the splash screen in your Images with the one from Mod/Images. Remember to copy your original splashes to a folder.<br>
+"Red Mandate Garrison" squad size reduced.<br>
+Missing Profiles fixed.<br>
+
+
+SEELE-JSSDF-UN Units Added:<br>
+T-90M Breakthrough<br>
+Object 670 "Black Eagle"<br>
+ZTZ99A<br>
+ZTZ96A<br>
+ZTZ88C<br>
+JSU-Seraphim Execution Group<br>
+</p>
+            </div>
+        </a>
+    <footer class="footer">
+        <p>© 2025 NERV Command Interface</p>
+    </footer>
+</body>
+</html>
