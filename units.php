@@ -9,7 +9,7 @@
     <div class="overlay"></div>
     <div class="vidBG">
         <video autoplay muted loop id="myVideo">
-            <source src="./video/TerminalDogma.mp4" type="video/mp4">
+            <source src="./Evangelion-UI.mp4" type="video/mp4">
         </video>
     </div>
 
