@@ -39,37 +39,39 @@ if (!isset($_SESSION['id'])) {
             </video>
         </div>
 
-        <div class="overlay">
-            <div class="content-wrapper">
-                <div class="intro">
-                    <h1>Welcome to NERV Command</h1>
-                    <p>Welcome, <?php echo $_SESSION['first_name']; ?>! You are now part of the elite force fighting to save humanity.</p>
-                    <p>Explore the depths of our operations and get familiar with the most important aspects of NERV.</p>
-                </div>
+        <!-- Only the overlay background, without content -->
+        <div class="overlay"></div>
 
-                <div class="lore-video">
-                    <h2>Learn About NERV</h2>
-                    <video autoplay muted loop controls>
-                        <source src="./NERV_Lore.mp4" type="video/mp4">
-                        Your browser does not support the video tag.
-                    </video>
-                    <p>This video will guide you through the history and operations of NERV, as well as our critical missions to protect humanity.</p>
-                </div>
+        <!-- Move content-wrapper outside of the overlay -->
+        <div class="content-wrapper">
+            <div class="intro">
+                <h1>Welcome to NERV Command</h1>
+                <p>Welcome, <?php echo $_SESSION['first_name']; ?>! You are now part of the elite force fighting to save humanity.</p>
+                <p>Explore the depths of our operations and get familiar with the most important aspects of NERV.</p>
+            </div>
 
-                <div class="nerv-info">
-                    <h2>NERV Operations</h2>
-                    <p>Here you will find details on the various aspects of NERV, from the development of the Evangelions to our top-secret projects.</p>
-                    <ul>
-                        <li><a href="#">Evangelion Units</a></li>
-                        <li><a href="#">NERV Facilities</a></li>
-                        <li><a href="#">Project Yashima</a></li>
-                        <li><a href="#">Operation Exodus</a></li>
-                    </ul>
-                </div>
+            <div class="lore-video">
+                <h2>Learn About NERV</h2>
+                <video autoplay muted loop controls>
+                    <source src="./NERV_Lore.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                <p>This video will guide you through the history and operations of NERV, as well as our critical missions to protect humanity.</p>
+            </div>
 
-                <div class="footer">
-                    <p>&copy; <?php echo date("Y"); ?> NERV Command. All rights reserved.</p>
-                </div>
+            <div class="nerv-info">
+                <h2>NERV Operations</h2>
+                <p>Here you will find details on the various aspects of NERV, from the development of the Evangelions to our top-secret projects.</p>
+                <ul>
+                    <li><a href="#">Evangelion Units</a></li>
+                    <li><a href="#">NERV Facilities</a></li>
+                    <li><a href="#">Project Yashima</a></li>
+                    <li><a href="#">Operation Exodus</a></li>
+                </ul>
+            </div>
+
+            <div class="footer">
+                <p>&copy; <?php echo date("Y"); ?> NERV Command. All rights reserved.</p>
             </div>
         </div>
     </section>
