@@ -311,8 +311,9 @@ footer p {
     width: 100%;
     margin: 0 auto;
     box-sizing: border-box;
-    background-color: rgba(0, 0, 0, 0.6); /* semi-transparent black */
+    background-color: rgba(0, 0, 0, 0.6); /* dark but not fully opaque */
+    padding: 30px;
+    border-radius: 8px; /* semi-transparent black */
     border: 1px solid red;
-    border-radius: 8px;
     color: white;
 }
