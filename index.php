@@ -2,6 +2,11 @@
 
 session_start();
 
+if (isset($_SESSION['id'])) {
+    header("Location: home.php");
+    exit;
+}
+
 $first_name = "";
 $last_name = "";
 $username = "";
