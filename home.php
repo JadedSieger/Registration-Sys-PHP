@@ -63,7 +63,7 @@ if (!isset($_SESSION['id'])) {
                 <h2>NERV Operations</h2>
                 <p>Here you will find details on the various aspects of NERV, from the development of the Evangelions to our top-secret projects.</p>
                 <ul>
-                    <li><a href="./mod.php">Immortality: Broken Bonds</a></li>
+                    <li><a href="./mod.php">Instrumentality: Broken Bonds</a></li>
                     <li><a href="./units.php">Evangelion Units</a></li>
                     <li><a href="./facilities.php">NERV Facilities</a></li>
                     <li><a href="#">Project Yashima</a></li>
