@@ -69,11 +69,10 @@ if (!isset($_SESSION['id'])) {
                     <li><a href="#">Operation Exodus</a></li>
                 </ul>
             </div>
-
-            <div class="footer">
-                <p>&copy; <?php echo date("Y"); ?> NERV Command. All rights reserved.</p>
-            </div>
         </div>
     </section>
+<div class="footer">
+                <p>&copy; <?php echo date("Y"); ?> NERV Command. All rights reserved.</p>
+</div>
 </body>
 </html>
