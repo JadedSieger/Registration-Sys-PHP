@@ -220,3 +220,86 @@ header {
 .nav-links a:hover {
     color: #00bcd4;
 }
+/* Styling for home page */
+.homeSec {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    position: relative;
+    z-index: 2;
+    box-sizing: border-box;
+}
+
+.intro {
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+}
+
+.intro h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.intro p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.lore-video {
+    width: 80%;
+    max-width: 800px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.lore-video video {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.nerv-info {
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+}
+
+.nerv-info h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.nerv-info ul {
+    list-style: none;
+    padding: 0;
+}
+
+.nerv-info li {
+    margin: 10px 0;
+}
+
+.nerv-info a {
+    color: red;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+.nerv-info a:hover {
+    color: #ffcccc;
+}
+
+.footer {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+footer p {
+    font-size: 1rem;
+}
