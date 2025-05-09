@@ -24,13 +24,10 @@
             <source src="./Evangelion-UI.mp4" type="video/mp4">
         </video>
     </div>
-href="https://www.dropbox.com/scl/fi/w69fzijohqbb3i8b4d0pb/Instrumentality-Broken-Bonds-1.8-Ramiel-Appears.zip?rlkey=5jg345d702erfuy3t7bvl8hbn&st=g70ygkye&dl=1
-"
         <section class="homeSec">
        
-            <a href="https://www.dropbox.com/scl/fi/w69fzijohqbb3i8b4d0pb/Instrumentality-Broken-Bonds-1.8-Ramiel-Appears.zip?rlkey=5jg345d702erfuy3t7bvl8hbn&st=g70ygkye&dl=1
-">
-            <div class="unit-section">
+
+            <div class="unit-section" onclick="window.open('https://www.dropbox.com/scl/fi/w69fzijohqbb3i8b4d0pb/Instrumentality-Broken-Bonds-1.8-Ramiel-Appears.zip?rlkey=5jg345d702erfuy3t7bvl8hbn&st=g70ygkye&dl=1','_blank')">
                 <h2>Versions</h2>
                 <h1>Version 1.8 - Descent of the Fifth</h1>
                 <p>Updates: <br>
@@ -55,10 +52,8 @@ XM270 Lower Wield Positron Cannon<br>
 Typhon Ballistic Missile Command Center
 </p>
             </div>
-        </a>
-                <a href="https://www.dropbox.com/scl/fi/w69fzijohqbb3i8b4d0pb/Instrumentality-Broken-Bonds-1.8-Ramiel-Appears.zip?rlkey=5jg345d702erfuy3t7bvl8hbn&st=g70ygkye&dl=1
-">
-            <div class="unit-section">
+               
+            <div class="unit-section" onclick="window.open(`https://www.dropbox.com/scl/fi/0ixdjfs0hestfxp67k78h/Instrumentality-Broken-Bonds-1.7.5-UI-SEELE-Camo-Completion-Update.zip?rlkey=zfx0uut4qyaan40odv3xwtvz0&st=delal25u&dl=1`,'_blank')">
                 <h2>Versions</h2>
                 <h1>Instrumentality: Broken Bonds v1.7.5 (UI + Camouflage Completion Patch)</h1>
                 <p>Updates:<br>
@@ -77,7 +72,6 @@ ZTZ88C<br>
 JSU-Seraphim Execution Group<br>
 </p>
             </div>
-        </a>
     <footer class="footer">
         <p>© 2025 NERV Command Interface</p>
     </footer>
