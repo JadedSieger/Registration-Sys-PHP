@@ -2,11 +2,6 @@
 
 session_start();
 
-$authenticated = false;
-if (isset($_SESSION["email"])) {
-    $authenticated = true;
-}
-
 $first_name = "";
 $last_name = "";
 $username = "";
@@ -98,11 +93,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         exit();
     }
 }
-
-if ($authenticated) {
-    header("Location: home.php");
-    exit();
-} else {
 ?>
 <html>
 <head>
@@ -180,4 +170,3 @@ if ($authenticated) {
 </section>
 </body>
 </html>
-<?php } ?>
