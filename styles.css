@@ -96,8 +96,9 @@ a {
     transition: background 0.3s ease;
 }
 
-button {
-    margin-top: 20px;
+button, .log-btn {
+    display: inline-block;
+    text-align: center;
     padding: 10px 15px;
     background-color: red;
     color: black;
@@ -105,35 +106,23 @@ button {
     border-radius: 5px;
     font-size: 18px;
     cursor: pointer;
-}
-
-button:hover {
-    background-color: darkred;
-    color: white;
-}
-
-.log-btn {
-    display: inline-block;
-    text-align: center;
-    background-color: red;
-    color: black;
-    padding: 10px 15px;
-    border-radius: 5px;
-    font-size: 18px;
+    transition: background 0.3s ease, color 0.3s ease;
     text-decoration: none;
     margin-top: 20px;
-    transition: background 0.3s ease;
 }
 
-.log-btn:hover {
+button:hover, .log-btn:hover {
     background-color: darkred;
     color: white;
 }
-
+button:focus, .log-btn:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(255, 0, 0, 0.7); /* Red glow for focus state */
+}
 form .button-group {
     display: flex;
     justify-content: space-between;
-    gap: 10px;
+    gap: 15px;
     margin-top: 20px;
 }
 
