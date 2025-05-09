@@ -303,3 +303,13 @@ header {
 footer p {
     font-size: 1rem;
 }
+.content-wrapper {
+    position: relative;
+    z-index: 2; /* higher than .overlay (which is 1), but less than header (10) */
+    padding: 40px 20px;
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    color: white;
+}
