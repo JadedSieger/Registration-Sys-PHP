@@ -57,19 +57,19 @@ NERV-UN Units Added<br>
             <div class="unit-card" onclick="window.open(`https://www.dropbox.com/scl/fi/0ixdjfs0hestfxp67k78h/Instrumentality-Broken-Bonds-1.7.5-UI-SEELE-Camo-Completion-Update.zip?rlkey=zfx0uut4qyaan40odv3xwtvz0&st=delal25u&dl=1`,'_blank')">
                 <h1>Instrumentality: Broken Bonds v1.7.5 (UI + Camouflage Completion Patch)</h1>
                 <p>Updates:<br>
-UI is now completely original, even the splash screen for mobile.<br>
-The splash screen is also working on pc, just replace the splash screen in your Images with the one from Mod/Images. Remember to copy your original splashes to a folder.<br>
-"Red Mandate Garrison" squad size reduced.<br>
-Missing Profiles fixed.<br>
+- UI is now completely original, even the splash screen for mobile.<br>
+- The splash screen is also working on pc, just replace the splash screen in your Images with the one from Mod/Images. Remember to copy your original splashes to a folder.<br>
+- "Red Mandate Garrison" squad size reduced.<br>
+- Missing Profiles fixed.<br>
 
-
+<br>
 SEELE-JSSDF-UN Units Added:<br>
-T-90M Breakthrough<br>
-Object 670 "Black Eagle"<br>
-ZTZ99A<br>
-ZTZ96A<br>
-ZTZ88C<br>
-JSU-Seraphim Execution Group<br>
+- T-90M Breakthrough<br>
+- Object 670 "Black Eagle"<br>
+- ZTZ99A<br>
+- ZTZ96A<br>
+- ZTZ88C<br>
+- JSU-Seraphim Execution Group<br>
 </p>
             </div>
 </div>
