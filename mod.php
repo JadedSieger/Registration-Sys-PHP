@@ -89,8 +89,7 @@ This is a coalition of former insiders, rogue operators, and ordinary people—t
                 <h2>NERV Links</h2>
                 <p>Here you will find details of the Mod.</p>
                 <ul>
-                    <li><a href="https://www.dropbox.com/scl/fi/w69fzijohqbb3i8b4d0pb/Instrumentality-Broken-Bonds-1.8-Ramiel-Appears.zip?rlkey=5jg345d702erfuy3t7bvl8hbn&st=g70ygkye&dl=1
-">Download Mod</a></li>
+                    <li><a href="./versions.php">Download Mod</a></li>
                     <li><a href="./units.php">Download Individual Units</a></li>
                 </ul>
             </div>
