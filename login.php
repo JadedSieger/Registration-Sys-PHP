@@ -52,13 +52,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 }
 ?>
 
-
-    <title>NERV: Login</title>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA Compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="" rel="stylesheet">
-    <link rel="stylesheet" href="./styles.css">
+<title>NERV: Login</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css">
 <body>
 <section class="loginSec">
 
@@ -72,7 +71,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <div class="overlay">
         <div class="content-wrapper">
             <div class="logo">
-                 <a href="https://evangelion.fandom.com/wiki/NERV">
+                <a href="https://evangelion.fandom.com/wiki/NERV">
                     <img class="NLogo" src="./NERV-Logo.png">
                 </a>
             </div>
@@ -83,22 +82,23 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         <h1><header class="profname">Log In/Sign Up</header></h1>
                     </legend>
 
-
                     <form method="post" id="loginF">
                         <label for="em-auth">Email Address:</label>
-                        <input type="email" id="em-auth" name="em-auth" value="<?= $email; ?>" required>
+                        <input type="email" id="em-auth" name="em-auth" value="<?= htmlspecialchars($email); ?>" required>
                         <p class="text-danger"><?= $error; ?></p>
+
                         <label for="UAuth">Username:</label>
-                        <input type="text" id="UAuth" name="UAuth" value="<?= $username; ?>" required>
+                        <input type="text" id="UAuth" name="UAuth" value="<?= htmlspecialchars($username); ?>" required>
                         <p class="text-danger"><?= $user_err; ?></p>
 
                         <label for="pass-auth">Password:</label>
                         <input type="password" id="pass-auth" name="pass-auth" required>
                         <p class="text-danger"><?= $error; ?></p>
-                        <button type="submit">Log In</button>
-                        <a href="./index.php">
-                        <button type="button">Return to Registration</button>
-                    </a> 
+
+                        <div class="button-group">
+                            <button type="submit">Log In</button>
+                            <a class="log-btn" href="./index.php">Return to Registration</a>
+                        </div>
                     </form>                   
                 </fieldset>
             </article>
