@@ -155,7 +155,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
                 <div class="button-group">
                     <button type="submit" class="btn">Register</button>
-                    <a class="button-link" href="./index.php">Have an Account? Log In</a>
+                    <button onclick="window.location.href='login.php'">Have an Account? Log in</button>
                 </div>
             </form>
         </div>
