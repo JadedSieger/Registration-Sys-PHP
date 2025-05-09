@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>NERV | Immortality Broken Bonds</title>
+    <title>NERV | Instrumentality: Broken Bonds</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -35,7 +35,7 @@
                 </video>
             </div>
             <div class="intro">
-                <h1>IMMORTALITY: BROKEN BONDS</h1>
+                <h1>INSTRUMENTALITY: BROKEN BONDS</h1>
                 <p>
 Set in 2015, immediately at the aftermath of the cataclysmic Third Impact, the world lies in ruins — fractured not only in body, but in spirit.<br>
 The Human Instrumentality Project has failed to unify humanity, leaving behind a shattered planet and the ghosts of a broken plan.<br>
