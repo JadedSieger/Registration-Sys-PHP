@@ -248,7 +248,8 @@ header {
     margin-top: 30px;
     text-align: center;
     margin-left: auto;        /* Optional: for centering on larger screens */
-    margin-right: auto;       /* Optional: for centering on larger screens */
+    margin-right: auto;
+    object-fit: cover;/* Optional: for centering on larger screens */
 }
 
 .lore-video video {
