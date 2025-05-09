@@ -305,7 +305,7 @@ footer p {
 }
 .content-wrapper {
     position: relative;
-    z-index: 9;
+    z-index: 10;
     padding: 40px 30px;
     max-width: 1000px;
     width: 100%;
