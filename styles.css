@@ -240,14 +240,20 @@ header {
 }
 
 .lore-video {
-    width: 80%;
+    display: flex;
+    justify-content: center;  /* Centers the video horizontally */
+    align-items: center;      /* Centers the video vertically */
+    width: 100%;
     max-width: 800px;
     margin-top: 30px;
     text-align: center;
+    margin-left: auto;        /* Optional: for centering on larger screens */
+    margin-right: auto;       /* Optional: for centering on larger screens */
 }
 
 .lore-video video {
     width: 100%;
+    height: auto;  /* Maintains the aspect ratio */
     border-radius: 8px;
 }
 
