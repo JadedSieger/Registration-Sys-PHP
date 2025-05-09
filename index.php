@@ -58,6 +58,16 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     }
     $statement->close();
 
+    $statement = $dbConnection->prepare("SELECT id FROM users WHERE username = ?");
+    $statement->bind_param("s", $username);
+    $statement->execute();
+    $statement->store_result();
+    if ($statement->num_rows > 0) {
+        $user_err = "Username already taken.";
+        $error = true;
+    }
+$statement->close();
+
     if (strlen($password) < 6) {
         $pass_err = "Password must be at least 6 characters.";
         $error = true;
@@ -155,7 +165,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
                 <div class="button-group">
                     <button type="submit" class="btn">Register</button>
-                    <button onclick="window.location.href='login.php'">Have an Account? Log in</button>
+                    <button class ="btn" onclick="window.location.href='login.php'">Have an Account? Log in</button>
                 </div>
             </form>
         </div>
