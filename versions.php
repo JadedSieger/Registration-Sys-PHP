@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>NERV | Unit Overview</title>
+    <title>NERV | Version Selector</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -31,25 +31,26 @@
             <div class="unit-card" onclick="window.open('https://www.dropbox.com/scl/fi/w69fzijohqbb3i8b4d0pb/Instrumentality-Broken-Bonds-1.8-Ramiel-Appears.zip?rlkey=5jg345d702erfuy3t7bvl8hbn&st=g70ygkye&dl=1','_blank')">
                 <h1>Version 1.8 - Descent of the Fifth</h1>
                 <p>Updates: <br>
-Some UI elements fixed for 11.0.1<br>
-Rebalanced Support Vehicles, such as the Typhon (NERV-UN) and the FCV (Global)<br>
+- Some UI elements fixed for 11.0.1<br>
+- Rebalanced Support Vehicles, such as the Typhon (NERV-UN) and the FCV (Global)<br>
+<br>
 New Faction: Angels<br>
-Ramiel<br>
+- Ramiel<br>
 
-
+<br>
 Current Roadmap<br>
-Eighth Angel  (https://evangelion.fandom.com/wiki/Eighth_Angel)<br>
-Arael (https://evangelion.fandom.com/wiki/Arael)<br>
-EVA Unit Implementation<br>
-Textures for canonically accurate characters.<br>
-
+- Eighth Angel  (https://evangelion.fandom.com/wiki/Eighth_Angel)<br>
+- Arael (https://evangelion.fandom.com/wiki/Arael)<br>
+- EVA Unit Implementation<br>
+- Textures for canonically accurate characters.<br>
+<br>
 Units Added (Global):<br>
-Positron Cannon (43.4km RHA Penetration btw)<br>
-4 FCV types (Bombs, Cruise Missiles, A-10 support)<br>
-
+- Positron Cannon (43.4km RHA Penetration btw)<br>
+- 4 FCV types (Bombs, Cruise Missiles, A-10 support)<br>
+<br>
 NERV-UN Units Added<br>
-XM270 Lower Wield Positron Cannon<br>
-Typhon Ballistic Missile Command Center
+- XM270 Lower Wield Positron Cannon<br>
+- Typhon Ballistic Missile Command Center
 </p>
             </div>
                
