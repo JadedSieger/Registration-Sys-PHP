@@ -107,6 +107,11 @@ button {
     cursor: pointer;
 }
 
+button:hover {
+    background-color: darkred;
+    color: white;
+}
+
 .log-btn {
     display: inline-block;
     text-align: center;
@@ -132,6 +137,7 @@ form .button-group {
     margin-top: 20px;
 }
 
+/* Video background */
 .vidBG {
     position: absolute;
     width: 100%;
