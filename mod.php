@@ -29,12 +29,10 @@
 
         <section class="homeSec">
 <div class="lore-video">
-                <h2>Learn About NERV</h2>
                 <video autoplay muted loop controls>
                     <source src="./video/UN Expansion Teaser (1).mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
-                <p>This video will guide you through the history and operations of NERV, as well as our critical missions to protect humanity.</p>
             </div>
             <div class="intro">
                 <h1>IMMORTALITY: BROKEN BONDS</h1>
