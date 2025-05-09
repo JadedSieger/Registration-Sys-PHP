@@ -25,7 +25,10 @@
         </video>
     </div>
 
-  <div class="lore-video">
+  
+
+        <section class="homeSec">
+<div class="lore-video">
                 <h2>Learn About NERV</h2>
                 <video autoplay muted loop controls>
                     <source src="./video/UN Expansion Teaser (1).mp4" type="video/mp4">
@@ -33,15 +36,14 @@
                 </video>
                 <p>This video will guide you through the history and operations of NERV, as well as our critical missions to protect humanity.</p>
             </div>
-
-        <section class="homeSec">
             <div class="intro">
                 <h1>IMMORTALITY: BROKEN BONDS</h1>
                 <p>
 Set in 2015, immediately at the aftermath of the cataclysmic Third Impact, the world lies in ruins — fractured not only in body, but in spirit.<br>
 The Human Instrumentality Project has failed to unify humanity, leaving behind a shattered planet and the ghosts of a broken plan.<br>
 
-With the deaths of Gendo Ikari, Misato Katsuragi, and the Three Children, NERV is left leaderless and disillusioned. Yet in the shadows of old battlefields, its remnants fight on — clinging to the last traces of individuality and free will.<br>
+With the deaths of Gendo Ikari, Misato Katsuragi, and the Three Children, NERV is left leaderless and disillusioned.<br>
+Yet in the shadows of old battlefields, its remnants fight on — clinging to the last traces of individuality and free will.<br>
 
 SEELE, despite the fall of its ten monolithic leaders, persists. Its ideology lives on through scattered cells, still obsessed with achieving forced evolution through global convergence and control.<br>
 
@@ -58,12 +60,6 @@ It is a battle for the very soul of humanity.
 </p>
             </div>
 
-                <div class="unit-card">
-                    <img src="./images/13.webp" alt="Unit 13">
-                    <h3>Unit-13</h3>
-                    <p>piloted simultaneously by two pilots, Shinji Ikari and Kaworu Nagisa.</p>
-                </div>
-            </div>
 
             <div class="unit-section">
                 <h2>Factions</h2>
@@ -89,8 +85,8 @@ This is a coalition of former insiders, rogue operators, and ordinary people—t
                 </div>
             </div>
           <div class="nerv-info">
-                <h2>NERV Operations</h2>
-                <p>Here you will find details on the various aspects of NERV, from the development of the Evangelions to our top-secret projects.</p>
+                <h2>NERV Links</h2>
+                <p>Here you will find details of the Mod.</p>
                 <ul>
                     <li><a href="https://www.dropbox.com/scl/fi/w69fzijohqbb3i8b4d0pb/Instrumentality-Broken-Bonds-1.8-Ramiel-Appears.zip?rlkey=5jg345d702erfuy3t7bvl8hbn&st=g70ygkye&dl=1
 ">Download Mod</a></li>
