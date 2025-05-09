@@ -53,7 +53,7 @@ if (!isset($_SESSION['id'])) {
             <div class="lore-video">
                 <h2>Learn About NERV</h2>
                 <video autoplay muted loop controls>
-                    <source src="./video/NGE-Intro.mp4" type="video/mp4">
+                    <source src="./video/Neon Genesis Evangelion - Opening (Creditless) (HD - 60 fps) (1).mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
                 <p>This video will guide you through the history and operations of NERV, as well as our critical missions to protect humanity.</p>
