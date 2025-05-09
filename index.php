@@ -94,19 +94,17 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     }
 }
 ?>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>NERV: User Registration</title>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>NERV: User Registration</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="" rel="stylesheet">
     <link rel="stylesheet" href="./styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
 </head>
-
 <body>
 <section class="loginSec">
-
     <div class="vidBG">
         <video autoplay muted loop id="myVideo">
             <source src="./Evangelion-UI.mp4" type="video/mp4">
@@ -117,56 +115,52 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <div class="overlay">
         <div class="content-wrapper">
             <div class="logo">
-                <a href="https://evangelion.fandom.com/wiki/NERV">
-                    <img class="NLogo" src="./NERV-Logo.png">
+                <a href="https://evangelion.fandom.com/wiki/NERV" target="_blank">
+                    <img class="NLogo" src="./NERV-Logo.png" alt="NERV Logo">
                 </a>
             </div>
 
-            <article class="logInfo">
-                <fieldset class="mainProf">
-                    <legend>
-                        <h1><header class="profname">Log In/Sign Up</header></h1>
-                    </legend>
-                    <form method="post" id="loginF">
-                        <label for="fname">First Name:</label>
-                        <input type="text" id="fname" name="fname" value="<?= htmlspecialchars($first_name); ?>" required>
-                        <p class="text-danger"><?= $fname_err; ?></p>
+            <form method="post" id="loginF" class="form-container">
+                <h1 class="form-title">NERV Access Portal</h1>
 
-                        <label for="Lname">Last Name:</label>
-                        <input type="text" id="Lname" name="Lname" value="<?= htmlspecialchars($last_name); ?>" required>
-                        <p class="text-danger"><?= $Lname_err; ?></p>
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="fname" value="<?= htmlspecialchars($first_name); ?>" required>
+                <p class="text-danger"><?= $fname_err; ?></p>
 
-                        <label for="username">Username:</label>
-                        <input type="text" id="username" name="username" value="<?= htmlspecialchars($username); ?>" required>
-                        <p class="text-danger"><?= $user_err; ?></p>
+                <label for="Lname">Last Name</label>
+                <input type="text" id="Lname" name="Lname" value="<?= htmlspecialchars($last_name); ?>" required>
+                <p class="text-danger"><?= $Lname_err; ?></p>
 
-                        <label for="em">Email Address:</label>
-                        <input type="email" id="em" name="em" value="<?= htmlspecialchars($email); ?>" required>
-                        <p class="text-danger"><?= $email_err; ?></p>
+                <label for="username">Username</label>
+                <input type="text" id="username" name="username" value="<?= htmlspecialchars($username); ?>" required>
+                <p class="text-danger"><?= $user_err; ?></p>
 
-                        <label for="phone">Phone Number:</label>
-                        <input type="text" id="phone" name="phone" value="<?= htmlspecialchars($phone); ?>">
+                <label for="em">Email</label>
+                <input type="email" id="em" name="em" value="<?= htmlspecialchars($email); ?>" required>
+                <p class="text-danger"><?= $email_err; ?></p>
 
-                        <label for="address">Address:</label>
-                        <input type="text" id="address" name="address" value="<?= htmlspecialchars($address); ?>">
+                <label for="phone">Phone</label>
+                <input type="text" id="phone" name="phone" value="<?= htmlspecialchars($phone); ?>">
 
-                        <label for="pass">Password:</label>
-                        <input type="password" id="pass" name="pass" required>
-                        <p class="text-danger"><?= $pass_err; ?></p>
+                <label for="address">Address</label>
+                <input type="text" id="address" name="address" value="<?= htmlspecialchars($address); ?>">
 
-                        <label for="Cpass">Confirm Password:</label>
-                        <input type="password" id="Cpass" name="Cpass" required>
-                        <p class="text-danger"><?= $Cpass_err; ?></p>
+                <label for="pass">Password</label>
+                <input type="password" id="pass" name="pass" required>
+                <p class="text-danger"><?= $pass_err; ?></p>
 
-                        <button type="submit">Register</button>
-                        <a href="./login.php">
-                            <button type="button">Log In</button>
-                        </a> 
-                    </form>                   
-                </fieldset>
-            </article>
+                <label for="Cpass">Confirm Password</label>
+                <input type="password" id="Cpass" name="Cpass" required>
+                <p class="text-danger"><?= $Cpass_err; ?></p>
+
+                <div class="button-group">
+                    <button type="submit" class="btn">Register</button>
+                    <a href="./login.php" class="btn secondary">Log In</a>
+                </div>
+            </form>
         </div>
     </div>
 </section>
 </body>
 </html>
+
