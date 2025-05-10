@@ -130,7 +130,7 @@ $statement->close();
     <div class="overlay">
         <div class="content-wrapper">
             <div class="logo">
-                <a href="https://evangelion.fandom.com/wiki/NERV" target="_blank">
+                <a href="./about.php" target="_blank">
                     <img class="NLogo" src="./NERV-Logo.png" alt="NERV Logo">
                 </a>
             </div>
