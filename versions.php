@@ -1,4 +1,4 @@
-<?php include 'session.php'; ?>
+<?php include 'auth.php'; ?>
 
 <!DOCTYPE html>
 <html lang="en">
