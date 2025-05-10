@@ -39,20 +39,22 @@
         <div class="content-wrapper">
             <div class="intro">
                 <h1>Welcome to NERV Command</h1>
-                <p>Welcome, <?php echo $_SESSION['first_name']; ?>! You are now part of the elite force fighting to save humanity.</p>
+                <p>Welcome,Dr. <?php echo $_SESSION['first_name']; ?>! You are now part of the elite force fighting to save humanity.</p>
                 <p>Explore the depths of our operations and get familiar with the most important aspects of NERV.</p>
             </div>
 
             <div class="lore-video">
-                <h2>Learn About NERV</h2>
+                
                 <video autoplay muted loop controls>
                     <source src="./video/Neon Genesis Evangelion - Opening (Creditless) (HD - 60 fps) (1).mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
-                <p>This video will guide you through the history and operations of NERV, as well as our critical missions to protect humanity.</p>
+                
             </div>
 
             <div class="nerv-info">
+                <h2>Learn About NERV</h2>
+                <p>This video will guide you through the history and operations of NERV, as well as our critical missions to protect humanity.</p>
                 <h2>NERV Operations</h2>
                 <p>Here you will find details on the various aspects of NERV, from the development of the Evangelions to our top-secret projects.</p>
                 <ul>
