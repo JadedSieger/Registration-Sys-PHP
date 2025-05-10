@@ -41,13 +41,13 @@
                 <p>
 Set in 2015, immediately at the aftermath of the cataclysmic Third Impact, the world lies in ruins — fractured not only in body, but in spirit.<br>
 The Human Instrumentality Project has failed to unify humanity, leaving behind a shattered planet and the ghosts of a broken plan.<br>
-
+<br>
 With the deaths of Gendo Ikari, Misato Katsuragi, and the Three Children, NERV is left leaderless and disillusioned.<br>
 Yet in the shadows of old battlefields, its remnants fight on — clinging to the last traces of individuality and free will.<br>
-
+<br>
 SEELE, despite the fall of its ten monolithic leaders, persists.<br>
 Its ideology lives on through scattered cells, still obsessed with achieving forced evolution through global convergence and control.<br>
-
+<br>
 The JSSDF, once the iron hand of order, now acts without restraint.<br>
 With NERV crippled and SEELE fractured, the military seizes the moment — imposing peace through brutality and firepower.<br>
 
