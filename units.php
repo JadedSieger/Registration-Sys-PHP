@@ -110,14 +110,52 @@
             <div class="unit-section">
                 <h2>Conventional Units</h2>
                 <div class="unit-card">
-                    <img src="./images/mbt.png" alt="Main Battle Tank">
-                    <h3>Main Battle Tank</h3>
-                    <p>Used for delaying actions and providing heavy fire support during Angel attacks.</p>
+                    <img src="./images/Profile-Merkava.png" alt="Merkava-4NV">
+                    <h3>Merkava-4NV</h3>
+                    <p>The Merkava 4NV is a heavily modified variant of Israel’s proven main battle tank, reengineered under NERV-UN oversight for post-Impact warfare.<br>
+ Designed to operate in unpredictable terrain and hostile anomalies, the 4NV integrates anti-AT Field plating, internal life support for contaminated zones,<br>
+ and a remote AI-assisted fire control system—technology born from lessons learned in the shadow of Evangelions.</p>
                 </div>
                 <div class="unit-card">
-                    <img src="./images/railgun.png" alt="Positron Cannon">
-                    <h3>Positron Cannon</h3>
-                    <p>Experimental anti-Angel weapon capable of piercing AT Fields, used during Operation Yashima.</p>
+                    <img src="./images/Profile-FMCUN.png" alt="M113A2+ FMC-UN">
+                    <h3>M113A2+ FMC-UN</h3>
+                    <p>The M113A2+ FMC-UN is a revitalized armored personnel carrier serving under NERV-UN’s conventional forces.<br>
+While its frame hails from a bygone era, its systems have been overhauled with electronic warfare suites, enhanced mobility packages, and adaptive armor upgrades.<br>
+
+It serves as a reliable backbone for infantry support operations, escorting Evangelion deployments and holding defensive lines in urban and post-Impact terrain.<br>
+In a world reshaped by gods and ghosts, the M113A2+ reminds us that human will still moves on treads.</p>
+                </div>
+                <div class="unit-card">
+                    <img src="./images/Profile-FWMCUN.png" alt="M113A2+ FwMC-UN">
+                    <h3>M113A2+ FwMC-UN</h3>
+                    <p>The M113A2+ FMC-UN is a revitalized armored personnel carrier serving under NERV-UN’s conventional forces.<br>
+                        Painted by the 43rd Cyberwarfare Division for their Armored Personnel Carriers.</p>
+                </div>
+                <div class="unit-card">
+                    <img src="./images/Profile-FSVUN.png" alt="M113A2+ Fire Support Vehicle - NERV-UN">
+                    <h3>M113A2+ Fire Support Vehicle - NERV-UN </h3>
+                    <p>An evolution of battlefield necessity, the M113A2+ Fire Support Vehicle brings heavy firepower to NERV-UN’s rapid response units.<br>
+Outfitted with a remote-operated 30mm autocannon, missile pods, and updated sensor arrays,<br>
+it delivers precise, overwhelming support against hostile ground and aerial targets—human or otherwise.</p>
+                </div>
+                <div class="unit-card">
+                    <img src="./images/Profile-HMV.png" alt="Humvee">
+                    <h3>HMMWV</h3>
+                    <p>Designed for swift and adaptable response, the HMMWV-NV serves as a versatile transport and light combat vehicle within NERV-UN’s fleet.<br>
+ Equipped with reinforced armor and a manned heavy machine gun mount, the HMMWV-NV is built to withstand hostile environments and carry troops or supplies to where they’re needed most.</p>
+                </div>
+                <div class="unit-card">
+                    <img src="./images/Profile-M113P-UN.png" alt="M113P-NERV-UN">
+                    <h3>M113P-NERV-UN </h3>
+                    <p>The M113P-UN is a modified version of the M113 armored personnel carrier, redesigned to meet the demanding requirements of the post-Impact world.<br>
+As part of NERV-UN’s armored fleet, the M113P-UN boasts enhanced armor plating, advanced reactive defense systems, and a versatile platform for troop deployment or field support operations.</p>
+                </div>
+                <div class="unit-card">
+                    <img src="./images/Profile-Typhoon.png" alt="Typhoon KamAZ">
+                    <h3>KamAZ-5388 </h3>
+                    <p>The KamAZ-5388 NERV Variant is an imposing mobile command vehicle re-engineered for Heavy Battlespace Support and cyberwarfare operations.<br>
+Originally designed as a high-mobility, armored off-road vehicle, the Typhoon U has been adapted by NERV for a variety of mission-critical roles,<br>
+including battlefield control, rapid deployment, Kinetic Energy Weapon direction, and support for cybernetic and information warfare operations</p>
                 </div>
             </div>
         </section>
