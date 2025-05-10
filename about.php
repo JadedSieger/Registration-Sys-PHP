@@ -72,18 +72,22 @@
 
 NERV was once the instrument of a quiet apocalypse—a covert arm of the United Nations, manipulated by SEELE to bring about Instrumentality.<br>
 But it was never faceless. It was built by people.<br>
+<br>
 <strong>Misato Katsuragi</strong>, who carried the weight of the world on her shoulders.<br>
+<br>
 <strong>Rei Ayanami</strong>, who defied her origin.<br>
+<br>
 <strong>Asuka Langley Soryu</strong>, who refused to be forgotten.<br>
+<br>
 And above all, <strong>Shinji Ikari</strong>, the boy who chose life—not perfection, not unity, but the unbearable pain and beauty of being human.<br>
-
+<br>
 The world that followed was not saved—it was left broken, raw, and real. But from that brokenness, a new force emerged.<br>
 
 NERV-UN is not a continuation of old power, but a reclamation of meaning.<br>
 Formed in the aftermath of the failed Human Instrumentality Project and the collapse of SEELE’s global machinery,<br>
 NERV-UN is a decentralized, restructured alliance of survivors, scientists, former NERV staff, and ordinary citizens. They do not seek gods or monsters.<br>
 They seek accountability, autonomy, and peace forged through understanding—not control.<br>
-
+<br>
 The Evangelions are gone, but their legacy remains. Their pilots were children—witnesses and victims of a system that demanded everything from them.<br>
 Shinji's final decision did not fix the world, but it gave humanity the right to try again. NERV-UN exists to honor that chance.<br>
 
