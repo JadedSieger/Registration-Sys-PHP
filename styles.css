@@ -177,8 +177,8 @@ header {
 }
 
 .navLogo {
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: auto;
     object-fit: contain;
     display: block;
 }
