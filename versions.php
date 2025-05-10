@@ -13,7 +13,7 @@
             <div class="navidiv">
                 <ul class="nav-links">
                     <li><a href="./home.php"><img class="navLogo" src="./NERV-Logo.png" alt="NERV Logo"></a></li>
-                    <li><a href="./about.html">About</a></li>
+                    <li><a href="./about.php"><button type="button">About</button></a></li>
                     <li><a href="https://jadedsieger.github.io/home"><button type="button">Go to Home</button></a></li>
                     <li><a href="./logout.php"><button type="button">Log Out</button></a></li>
                 </ul>
