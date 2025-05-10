@@ -76,7 +76,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <div class="overlay">
         <div class="content-wrapper">
             <div class="logo">
-                <a href="https://evangelion.fandom.com/wiki/NERV">
+                <a href="./about.php">
                     <img class="NLogo" src="./NERV-Logo.png">
                 </a>
             </div>
