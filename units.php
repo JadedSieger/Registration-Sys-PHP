@@ -135,7 +135,7 @@ In a world reshaped by gods and ghosts, the M113A2+ reminds us that human will s
                     <img src="./images/Profile-FSVUN.png" alt="M113A2+ Fire Support Vehicle - NERV-UN">
                     <h3>M113A2+ Fire Support Vehicle - NERV-UN </h3>
                     <p>An evolution of battlefield necessity, the M113A2+ Fire Support Vehicle brings heavy firepower to NERV-UN’s rapid response units.<br>
-Outfitted with a remote-operated 30mm autocannon, missile pods, and updated sensor arrays,<br>
+Outfitted with a remote-operated 90mm cannon, and updated sensor arrays,<br>
 it delivers precise, overwhelming support against hostile ground and aerial targets—human or otherwise.</p>
                 </div>
                 <div class="unit-card">
@@ -152,8 +152,8 @@ As part of NERV-UN’s armored fleet, the M113P-UN boasts enhanced armor plating
                 </div>
                 <div class="unit-card">
                     <img src="./images/Profile-Typhoon.png" alt="Typhoon KamAZ">
-                    <h3>KamAZ-5388 </h3>
-                    <p>The KamAZ-5388 NERV Variant is an imposing mobile command vehicle re-engineered for Heavy Battlespace Support and cyberwarfare operations.<br>
+                    <h3>Ural-63095 </h3>
+                    <p>The Ural-63095 NERV Variant is an imposing mobile command vehicle re-engineered for Heavy Battlespace Support and cyberwarfare operations.<br>
 Originally designed as a high-mobility, armored off-road vehicle, the Typhoon U has been adapted by NERV for a variety of mission-critical roles,<br>
 including battlefield control, rapid deployment, Kinetic Energy Weapon direction, and support for cybernetic and information warfare operations</p>
                 </div>
